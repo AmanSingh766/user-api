@@ -39,7 +39,7 @@ A simple REST API built with Go to manage users. It stores `name` and `dob` (dat
 **1. Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/user-api.git
+https://github.com/AmanSingh766/user-api.git
 cd user-api
 ```
 
